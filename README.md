@@ -17,9 +17,6 @@
 <a href="https://instagram.com/dhrutik_505">
   <img align="left" alt="Instagram Profile" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://gmail.com/DhrutikPatel">
-  <img align="left" alt="Github Profile" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
 
 
 
