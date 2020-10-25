@@ -2,9 +2,16 @@
 
 ## I am Dhrutik Patel
 
-![DhrutikPatel's github stats](https://github-readme-stats.aemiej.vercel.app/api?username=DhrutikPatel&show_icons=true&hide_border=true&theme=dark&private=true) 
+**Web Developer and Machine Learning enthusiast**
+
+
+![DhrutikPatel's github stats](https://github-readme-stats.aemiej.vercel.app/api?username=DhrutikPatel&show_icons=true&hide_border=true&theme=dark&private=true)
+
+
 
 ![Top Languages](https://github-readme-stats.aemiej.vercel.app/api/top-langs/?username=DhrutikPatel&theme=dark&layout=compact&show_icons=true&hide_border=true&private=true)
+
+
 
 ### Connect with me:
 
