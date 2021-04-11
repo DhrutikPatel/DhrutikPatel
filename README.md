@@ -25,8 +25,10 @@
   <img align="left" alt="Instagram Profile" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-
-
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DhrutikPatel" />
+</p>
 
 
 <!--
